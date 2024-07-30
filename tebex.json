@@ -8,7 +8,7 @@
         },
 		{
             "name": "HG-CharCustomizer",
-            "version": 3.01,
+            "version": 2.1,
             "updateCritical": false,
             "update": "-----------------------------------------\n Support for QBCore & ESX is provided \n-----------------------------------------"
         },
