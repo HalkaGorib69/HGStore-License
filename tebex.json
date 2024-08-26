@@ -8,15 +8,15 @@
         },
 	{
             "name": "HG-CharCustomizer",
-            "version": 2.1,
+            "version": 2.01,
             "updateCritical": false,
             "update": "-----------------------------------------\n Support for QBCore & ESX is provided \n-----------------------------------------"
         },
 	{
             "name": "HG-MoneyWash",
-            "version": 2.2,
+            "version": 2.02,
             "updateCritical": false,
-            "update": "-----------------------------------------\n Support for QBCore & ESX is provided \n-----------------------------------------"
+            "update": "-----------------------------------------\n Support for qb-inventory,ox_inventory,codem-inventory,qs-inventory,esx_inventoryhud added.\n-----------------------------------------"
         },
     ],
     "author": "HG Store (HalkaGorib)",
