@@ -18,6 +18,12 @@
             "updateCritical": false,
             "update": "-----------------------------------------\n Support for qb-inventory,ox_inventory,codem-inventory,qs-inventory,esx_inventoryhud added.\n-----------------------------------------"
         },
+	{
+            "name": "HG-AppleFarm",
+            "version": 1.01,
+            "updateCritical": true,
+            "update": "-----------------------------------------\n Support for qb-inventory,ox_inventory,codem-inventory,qs-inventory,esx_inventoryhud added. \n And alot of General Fixes\n-----------------------------------------"
+        },
     ],
     "author": "HG Store (HalkaGorib)",
     "validity": "server validity"
