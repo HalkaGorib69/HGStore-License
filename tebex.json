@@ -14,9 +14,9 @@
         },
 	{
             "name": "HG-MoneyWash",
-            "version": 2.02,
-            "updateCritical": false,
-            "update": "-----------------------------------------\n Support for qb-inventory,ox_inventory,codem-inventory,qs-inventory,esx_inventoryhud added.\n-----------------------------------------"
+            "version": 3.00,
+            "updateCritical": true,
+            "update": "-----------------------------------------\n Fully rewriiten code with added mission and controls.\n-----------------------------------------"
         },
 	{
             "name": "HG-AppleFarm",
