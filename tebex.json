@@ -5,20 +5,26 @@
             "version": 3.01,
             "updateCritical": false,
             "update": "-----------------------------------------\n 1. A new player self-reset option has been added for job changes. Previously, this had to be done by the previous department boss or a server admin. \n 2. Each department now has individual webhook options for separate log management, if needed \n 3. The leaderboard can now be viewed only within the respective department \n 4. An Active label has been added next to the shift duty times to indicate the current shift you are in \n 5. The boss identification issue for ESX servers has been fixed \n 6. Duty export to Excel file issue is fixed \n 7. The script has been reworked for easier installation, now featuring a drag-and-drop setup for any server \n-----------------------------------------"
-        },
-	{
+    	},
+		{
             "name": "HG-CharCustomizer",
             "version": 2.01,
             "updateCritical": false,
             "update": "-----------------------------------------\n Support for QBCore & ESX is provided \n-----------------------------------------"
-        },
-	{
+    	},
+		{
             "name": "HG-MoneyWash",
             "version": 3.00,
             "updateCritical": true,
             "update": "-----------------------------------------\n Fully rewriiten code with added mission and controls.\n-----------------------------------------"
-        },
-	{
+    	},
+		{
+            "name": "HG-Halloween",
+            "version": 2.01,
+            "updateCritical": true,
+			"update": "-----------------------------------------\n - Halloween weather & night time added in function-cl.lua\n - Added reward for all missions and tasks.\n - Cooldown added for Zombie & Haunted House Missions.\n - Mission start & end function checks added for Zombie & Haunted House Missions (function-cl.lua)\n - Fixed missing first-person camera enforcement on Haunted House Missions.\n-----------------------------------------"
+    	},
+		{
             "name": "HG-AppleFarm",
             "version": 1.01,
             "updateCritical": true,
