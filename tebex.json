@@ -22,7 +22,7 @@
             "name": "HG-Halloween",
             "version": 2.17,
             "updateCritical": true,
-			"update": "-----------------------------------------\n - Halloween weather & night time added in function-cl.lua\n - Added reward for all missions and tasks.\n - Cooldown added for Zombie & Haunted House Missions.\n - Mission start & end function checks added for Zombie & Haunted House Missions (function-cl.lua)\n - Fixed missing first-person camera enforcement on Haunted House Missions.\n-----------------------------------------"
+			"update": "-----------------------------------------\n - Halloween Item reward issue fixed.\n-----------------------------------------"
     	},
 		{
             "name": "HG-AppleFarm",
